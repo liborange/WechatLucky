@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LuckyMoney</string>
+    <string name="desc">祖传秘方，专治抢微信红包时手短手慢反应慢</string>
+    <string name="service_name">liborange</string>
+</resources>
